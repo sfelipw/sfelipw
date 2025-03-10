@@ -1,5 +1,5 @@
 <h1> Felipe Ramon</h1>
-<p> Sou de São Paulo do Potengi</p> :hearts;
+<p> 🏠 Sou de São Paulo do Potengi</p> :hearts;
 
 <h2> Objetivo</h2>
 <p> Busco aprimorar meus conhecimentos em Java script, participando de projetos que vão constribuir para uma tecnologia mais eficiente e memorável.</p>
